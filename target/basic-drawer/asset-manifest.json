@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/basic-drawer/static/css/main.1989bbbd.chunk.css",
+    "main.js": "/basic-drawer/static/js/main.bd2e2574.chunk.js",
+    "main.js.map": "/basic-drawer/static/js/main.bd2e2574.chunk.js.map",
+    "runtime-main.js": "/basic-drawer/static/js/runtime-main.179defd6.js",
+    "runtime-main.js.map": "/basic-drawer/static/js/runtime-main.179defd6.js.map",
+    "static/css/2.d2155c7a.chunk.css": "/basic-drawer/static/css/2.d2155c7a.chunk.css",
+    "static/js/2.a7b734ff.chunk.js": "/basic-drawer/static/js/2.a7b734ff.chunk.js",
+    "static/js/2.a7b734ff.chunk.js.map": "/basic-drawer/static/js/2.a7b734ff.chunk.js.map",
+    "index.html": "/basic-drawer/index.html",
+    "precache-manifest.bf6be91ab7ca63f0eea2ac08a7347a1f.js": "/basic-drawer/precache-manifest.bf6be91ab7ca63f0eea2ac08a7347a1f.js",
+    "service-worker.js": "/basic-drawer/service-worker.js",
+    "static/css/2.d2155c7a.chunk.css.map": "/basic-drawer/static/css/2.d2155c7a.chunk.css.map",
+    "static/css/main.1989bbbd.chunk.css.map": "/basic-drawer/static/css/main.1989bbbd.chunk.css.map",
+    "static/js/2.a7b734ff.chunk.js.LICENSE.txt": "/basic-drawer/static/js/2.a7b734ff.chunk.js.LICENSE.txt",
+    "static/media/dx.light.css": "/basic-drawer/static/media/dxicons.2b145cef.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.179defd6.js",
+    "static/css/2.d2155c7a.chunk.css",
+    "static/js/2.a7b734ff.chunk.js",
+    "static/css/main.1989bbbd.chunk.css",
+    "static/js/main.bd2e2574.chunk.js"
+  ]
+}
